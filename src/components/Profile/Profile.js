@@ -14,6 +14,10 @@ const data = [
     title:"E-Mail:",
     info:"Admin@website.com"
   },
+  {
+    title:"Address",
+    info:"Calle eugenio alcantara #36"
+  },
 ]
 
 export default function Profile() {
