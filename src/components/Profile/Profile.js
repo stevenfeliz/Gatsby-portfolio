@@ -12,7 +12,7 @@ const data = [
 
   {
     title:"E-Mail:",
-    info:"Admin@website.com"
+    info:"steven.deleonfeliz@gmail.com"
   },
   {
     title:"Age",
