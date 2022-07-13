@@ -9,6 +9,9 @@ import {
   backendSkillsColors,
   soSkills,
   soSkillsColors,
+  otherSkills,
+  otherSkillsColors,
+  
 } from "../utils/skills"
 import "./skills.scss"
 
@@ -25,8 +28,12 @@ export default function Index() {
           <ListSkills skills={backendSkills} colors={backendSkillsColors} />
         </div>
         <div className="skills__block">
-          <h2>Sistemas Operativos</h2>
+          <h2>Other Skills</h2>
+          <ListSkills skills={otherSkills} colors={otherSkillsColors} />
+          <div className="skills__block">
+          <h2>Operating Systems</h2>
           <ListSkills skills={soSkills} colors={soSkillsColors} />
+        </div>
         </div>
       </Container>
     </BasicLayout>

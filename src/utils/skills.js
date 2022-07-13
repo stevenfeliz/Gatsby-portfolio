@@ -1,44 +1,60 @@
 export const frontendSkills = [
     { type: "JavaScript", level: 95 },
     { type: "React JS", level: 95 },
-    { type: "CSS3", level: 50 },
-    { type: "Gatsby", level: 85 },
-    { type: "Webpack", level: 70 },
-    { type: "HTML", level: 60 },
-    { type: "Next JS", level: 90 },
-    { type: "React Native", level: 90 },
+    { type: "CSS3", level: 70 },
+    { type: "Gatsby", level: 90 },
+    { type: "HTML", level: 100 },
+    
   ]
   export const fontendSkillsColors = {
-    bar: "#3498db",
+    bar: "#F4B000",
     title: {
       text: "#fff",
-      background: "#2980b9",
+      background: "#71A3F7",
     },
   }
   
   export const backendSkills = [
-    { type: "Node JS", level: 95 },
-    { type: "Express JS", level: 70 },
-    { type: "PHP", level: 60 },
-    { type: "Python", level: 85 },
+    { type: "Node JS", level: 20 },
+      { type: "Python", level: 30 },
   ]
   export const backendSkillsColors = {
-    bar: "#00bd3f",
+    bar: "#F4B000",
     title: {
       text: "#fff",
-      background: "#009331",
+      background: "#71A3F7",
     },
+  }
+
+  export const otherSkills =[
+    {type: "Scrapy", level: 80},
+    {type: "BeautifulSoup", level: 100},
+    {type: "Wordpress", level: 80},
+    {type: "Bootstrap", level: 98},
+    {type: "Git", level: 100},
+
+  ]
+  export const otherSkillsColors = {
+    bar: "#F4B000",
+    title: {
+      text: "#fff",
+      background: "#71A3F7",
+    },
+
   }
   
   export const soSkills = [
-    { type: "MacOS", level: 100 },
-    { type: "Linux", level: 95 },
-    { type: "Windows", level: 95 },
+    { type: "MacOS", level: 80 },
+    { type: "Linux", level: 80 },
+    { type: "Windows", level: 100 },
   ]
   export const soSkillsColors = {
-    bar: "#f09c00",
+    bar: "#F4B000",
     title: {
       text: "#fff",
-      background: "#b46900",
+      background: "#71A3F7",
     },
+
   }
+
+  

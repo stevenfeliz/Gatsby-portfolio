@@ -15,8 +15,8 @@ const data = [
     info:"Admin@website.com"
   },
   {
-    title:"Address",
-    info:"Calle eugenio alcantara #36"
+    title:"Age",
+    info:"25 Years"
   },
 ]
 

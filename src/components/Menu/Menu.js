@@ -9,7 +9,7 @@ export default function Menu(props) {
     <header className="menu" style={{backgroundColor: menuColor || "transparent"}}>
         <Container>
             <ul>
-                <li><Link to="/">Inicio</Link></li>
+                <li><Link to="/">Home</Link></li>
                 <li><Link to="/skills">Skills</Link></li>
                 <li><Link to="/projects">Projects</Link></li>
             </ul>

@@ -7,15 +7,9 @@ export default function AboutMe() {
   return (
     <Container className="about-me">
     <p>
-      Lorem Ipsum is simply dummy text of the printing and typesetting
-      industry. Lorem Ipsum has been the industry's standard dummy text ever
-      since the 1500s, when an unknown printer took a galley of type and
-      scrambled it to make a type specimen book. It has survived not only five
-      centuries, but also the leap into electronic typesetting, remaining
-      essentially unchanged. It was popularised in the 1960s with the release
-      of Letraset sheets containing Lorem Ipsum passages, and more recently
-      with desktop publishing software like Aldus PageMaker including versions
-      of Lorem Ipsum.
+      Tech lover!! it is a pleasure that you visit my web portfolio, you welcome 
+      my name is STEVEN, I was born in the Dominican Republic, my father is French and my mother is Dominican, since I was little I have always been very interested in computers, and with my uncles I learned to repair and use computers! Later I became interested in the web world and began to study web development by myself with the information I found on the web
+      I currently consider myself a frontend developer, I love Javascript and its frameworks! and I hope to be part of a great team of developers one day :D More info CV
     </p>
     <hr />
 
