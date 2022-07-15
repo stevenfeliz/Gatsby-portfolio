@@ -7,9 +7,13 @@ export default function AboutMe() {
   return (
     <Container className="about-me">
     <p>
-      Tech lover!! it is a pleasure that you visit my web portfolio, you welcome 
-      my name is STEVEN, I was born in the Dominican Republic, my father is French and my mother is Dominican, since I was little I have always been very interested in computers, and with my uncles I learned to repair and use computers! Later I became interested in the web world and began to study web development by myself with the information I found on the web
-      I currently consider myself a frontend developer, I love Javascript and its frameworks! and I hope to be part of a great team of developers one day :D More info CV
+    Solid front-end knowledge of HTML, CSS, Javascript, React, Gatsby.
+Experience in Python with Selenium and library Requests, Regex.
+Lolixscript with Openbullet opensource webscrapy tools
+Strong understanding of design principles, UI/UX, Modular CSS, Bootstrap, Grid layout and responsive design.
+Positive attitude, strong work ethic, out-of-the-box thinking and high level of professional integrity. 
+
+Salmos 128:2 ✞
     </p>
     <hr />
 
