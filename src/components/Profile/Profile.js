@@ -7,12 +7,12 @@ import Social from "./Social/"
 const data = [
   {
     title:"Phone:",
-    info:"+1 809 974 9610"
+    info:"+1 809-974-9610"
   },
 
   {
     title:"E-Mail:",
-    info:"steven.deleonfeliz@gmail.com"
+    info:"contact@stevenfeliz.com"
   },
   {
     title:"Age",
@@ -32,7 +32,7 @@ export default function Profile() {
             </Col>
             <Col xs={12} md={8} className="info__data">
                 <span>!Hello!</span>
-                <p>Steven De Leon</p>
+                <p>Steven Feliz</p>
                 <p>Frontend Developer</p>
                 <hr/>
                 <div className='more-info'>

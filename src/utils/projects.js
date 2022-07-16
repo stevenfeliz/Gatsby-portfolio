@@ -1,17 +1,12 @@
-import google from "../images/projects/google.png"
-import twitter from "../images/projects/twitter.png"
-import facebook from "../images/projects/facebook.png"
-import pinteres from "../images/projects/pinteres.png"
-import instagram from "../images/projects/instagram.png"
-import maint from "../images/projects/maintenance.jpg"
+import jonmirchaChalleng from "../images/projects/jonchalleng.png"
 
 export default [
   {
-    title: "maintenance",
+    title: "JonMircha Challeng Javascript - Github",
     description:
-      "maintenance",
-    url: "#",
-    image: maint,
+      "Solve javascript programming problem",
+    url: "https://github.com/stevenfeliz/youtube-js",
+    image: jonmirchaChalleng,
   },
   
 ]

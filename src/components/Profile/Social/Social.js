@@ -8,7 +8,7 @@ import "./Social.scss"
 const socialMedia = [
   {
     icon: <GitHub/>,
-    link: "https://github.com/leonpibe",
+    link: "https://github.com/stevenfeliz",
   },
     {
       icon: <IcTwitter/>,
@@ -21,7 +21,7 @@ const socialMedia = [
     },
     {
       icon: <IcLinkedin/>,
-      link: "https://www.linkedin.com/in/steven-de-leon-117b73196/",
+      link: "https://www.linkedin.com/in/stevenfeliz",
     },
   ]
 
